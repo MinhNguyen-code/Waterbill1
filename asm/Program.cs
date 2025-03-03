@@ -73,6 +73,8 @@ namespace asm
             Console.WriteLine($"Amount of consumption: {consumption} m³");
             Console.WriteLine($"Total water bill: {totalBill} VND");
 
+            Console.ReadLine();
         }
+
     }
 }

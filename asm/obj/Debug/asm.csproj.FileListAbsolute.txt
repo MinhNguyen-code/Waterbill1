@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\asm\asm\obj\Debug\asm.csproj.AssemblyReference.cache
 C:\Users\Admin\source\repos\asm\asm\obj\Debug\asm.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\asm\asm\obj\Debug\asm.exe
 C:\Users\Admin\source\repos\asm\asm\obj\Debug\asm.pdb
+C:\Users\Admin\Desktop\Test 1\Waterbill1\asm\bin\Debug\asm.exe.config
+C:\Users\Admin\Desktop\Test 1\Waterbill1\asm\bin\Debug\asm.exe
+C:\Users\Admin\Desktop\Test 1\Waterbill1\asm\bin\Debug\asm.pdb
+C:\Users\Admin\Desktop\Test 1\Waterbill1\asm\obj\Debug\asm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test 1\Waterbill1\asm\obj\Debug\asm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test 1\Waterbill1\asm\obj\Debug\asm.exe
+C:\Users\Admin\Desktop\Test 1\Waterbill1\asm\obj\Debug\asm.pdb
